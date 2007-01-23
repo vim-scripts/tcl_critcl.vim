@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1775
+
+    c-syntax for blocks of c-code in tcl definitions.
+
+    Adds critcl syntax to tcl.vim (vimscript #1603)
+
+
